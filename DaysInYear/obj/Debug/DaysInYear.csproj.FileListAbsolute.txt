@@ -1,0 +1,15 @@
+C:\Users\IokiOnyx\source\repos\DaysInYear\DaysInYear\bin\Debug\DaysInYear.exe.config
+C:\Users\IokiOnyx\source\repos\DaysInYear\DaysInYear\bin\Debug\DaysInYear.exe
+C:\Users\IokiOnyx\source\repos\DaysInYear\DaysInYear\bin\Debug\DaysInYear.pdb
+C:\Users\IokiOnyx\source\repos\DaysInYear\DaysInYear\obj\Debug\DaysInYear.csproj.AssemblyReference.cache
+C:\Users\IokiOnyx\source\repos\DaysInYear\DaysInYear\obj\Debug\MainWindow.g.cs
+C:\Users\IokiOnyx\source\repos\DaysInYear\DaysInYear\obj\Debug\App.g.cs
+C:\Users\IokiOnyx\source\repos\DaysInYear\DaysInYear\obj\Debug\DaysInYear_MarkupCompile.cache
+C:\Users\IokiOnyx\source\repos\DaysInYear\DaysInYear\obj\Debug\DaysInYear_MarkupCompile.lref
+C:\Users\IokiOnyx\source\repos\DaysInYear\DaysInYear\obj\Debug\MainWindow.baml
+C:\Users\IokiOnyx\source\repos\DaysInYear\DaysInYear\obj\Debug\DaysInYear.g.resources
+C:\Users\IokiOnyx\source\repos\DaysInYear\DaysInYear\obj\Debug\DaysInYear.Properties.Resources.resources
+C:\Users\IokiOnyx\source\repos\DaysInYear\DaysInYear\obj\Debug\DaysInYear.csproj.GenerateResource.cache
+C:\Users\IokiOnyx\source\repos\DaysInYear\DaysInYear\obj\Debug\DaysInYear.csproj.CoreCompileInputs.cache
+C:\Users\IokiOnyx\source\repos\DaysInYear\DaysInYear\obj\Debug\DaysInYear.exe
+C:\Users\IokiOnyx\source\repos\DaysInYear\DaysInYear\obj\Debug\DaysInYear.pdb
